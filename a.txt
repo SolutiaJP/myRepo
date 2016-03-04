@@ -1,0 +1,7 @@
+This is the first line
+.
+ls
+
+cd
+cd..
+cd ..
